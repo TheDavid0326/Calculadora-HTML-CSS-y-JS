@@ -13,6 +13,13 @@ Este proyecto es una calculadora básica desarrollada utilizando HTML, CSS y Jav
 * CSS: Estiliza la apariencia de la calculadora, definiendo colores, fuentes y espaciado.
 * JavaScript: Maneja la interacción del usuario, realiza los cálculos y actualiza la pantalla.
 
+**Funcionamiento:**
+
+* **Entrada de datos:** El usuario ingresa números y operadores utilizando los botones de la calculadora.
+* **Procesamiento:** Al hacer clic en el botón "=", se ejecuta la función `calculate()` que evalúa la expresión matemática ingresada.
+* **Mostrar resultado:** El resultado de la operación se muestra en la pantalla de la calculadora.
+* **Borrado:** La función `cleanScreen()` permite limpiar la pantalla para iniciar un nuevo cálculo.
+
 **Qué aprendí:**
 * Manipulación del DOM: Aprendí a seleccionar y modificar elementos HTML utilizando JavaScript para crear una interfaz dinámica.
 * Manejo de eventos: Implementé escuchadores de eventos para los botones, permitiendo a la calculadora responder a las acciones del usuario.
